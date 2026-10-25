@@ -24,7 +24,8 @@ its notes and `SHA256SUMS`, each file's checksum. The download page is at
 to use it at [recklesstechnology.com/chess/amphitheater](https://recklesstechnology.com/chess/amphitheater/).
 
 This repository holds the downloads alone; the source is at
-[reckless-technology/amphitheater-chess](https://github.com/reckless-technology/amphitheater-chess), public to read
-under a proprietary licence. Reckless Amphitheater is free to use under the end-user licence the installers show and
-every download carries. The five bundled engines are open source, each in its own repository. Questions, bugs and
+[reckless-technology/amphitheater-chess](https://github.com/reckless-technology/amphitheater-chess). Reckless
+Amphitheater is free and open source under the GNU General Public License, version 3 or later, which the installers
+show and every download carries as `LICENSE.txt`; 1.0.0 was the last release under the earlier end-user licence. The
+five bundled engines are open source too, each in its own repository. Questions, bugs and
 ideas: hello@recklesstechnology.com.
